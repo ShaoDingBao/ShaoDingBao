@@ -1,25 +1,60 @@
-# Hi, I'm Dingbao Shao
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=22&color=2563EB&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Dingbao+Shao.;Video+Generation+%26+Editing+Researcher" alt="Dingbao Shao — Video Generation and Editing Researcher" />
 
-I'm an M.S. candidate in Artificial Intelligence at Nanjing University, working on **video generation and editing**, **Diffusion Transformers**, and **large-scale generative-model training**.
+  <p><strong>I'm currently focused on video generation, video editing, and Diffusion Transformers.</strong></p>
 
-- I build controllable video generation and editing systems based on the Wan model family.
-- I have hands-on experience with multi-million-sample video data pipelines and hundred-GPU distributed training.
-- I'm interested in research engineering roles in video generation, multimodal generation, and generative AI.
-- I'm open to **2027 new-graduate opportunities**.
+  <p>
+    <code>🎓 M.S. Candidate @ Nanjing University</code>
+    <code>🔎 Open to 2027 New-Grad Opportunities</code>
+  </p>
+</div>
 
-## Selected Work
+<table>
+<tr>
+<td valign="top" width="48%">
 
-### [TripVVT](https://github.com/ShaoDingBao/TripVVT) — ECCV 2026
+#### 💼 Internship Experience
 
-A large-scale triplet dataset and a coarse-mask Diffusion Transformer baseline for in-the-wild video virtual try-on. **Co-first author, listed first.**
+<p>
+  <strong>Alibaba</strong><br/>
+  <code>Moku Lab · Video Generation & Editing</code><br/>
+  <sub>2026.06 — Present</sub>
+</p>
 
-[Paper](https://arxiv.org/abs/2604.27958) · [Project Page](https://shaodingbao.github.io/TripVVT/) · [Dataset](https://huggingface.co/datasets/TripVVT/TripVVT-10K)
+<p>
+  <strong>China Mobile</strong><br/>
+  <code>JIUTIAN Research · General Video Editing</code><br/>
+  <sub>2025.11 — 2026.06</sub>
+</p>
 
-## Focus
+</td>
+<td valign="top" width="52%">
 
-`Video Generation` · `Video Editing` · `Diffusion / DiT` · `Wan` · `PyTorch` · `Distributed Training` · `Video Data Engineering`
+#### 🔬 Selected Research
 
-## Contact
+**[TripVVT](https://github.com/ShaoDingBao/TripVVT) — ECCV 2026**<br/>
+*Co-first author, listed first*
 
-- Email: [522024710012@smail.nju.edu.cn](mailto:522024710012@smail.nju.edu.cn)
-- GitHub: [ShaoDingBao](https://github.com/ShaoDingBao)
+A large-scale triplet dataset and a coarse-mask DiT baseline for in-the-wild video virtual try-on.
+
+[Paper](https://arxiv.org/abs/2604.27958) · [Project](https://shaodingbao.github.io/TripVVT/) · [Dataset](https://huggingface.co/datasets/TripVVT/TripVVT-10K)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <p>
+    <code>Video Generation</code>
+    <code>Video Editing</code>
+    <code>Diffusion / DiT</code>
+    <code>Wan</code>
+    <code>Distributed Training</code>
+  </p>
+
+  <p>
+    <a href="mailto:522024710012@smail.nju.edu.cn">Email</a>
+    ·
+    <a href="https://github.com/ShaoDingBao/TripVVT">TripVVT</a>
+  </p>
+</div>

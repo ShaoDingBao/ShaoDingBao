@@ -33,7 +33,7 @@
 #### 🔬 Selected Research
 
 **[TripVVT](https://github.com/ShaoDingBao/TripVVT) — ECCV 2026**<br/>
-*Co-first author, listed first*
+*First author*
 
 A large-scale triplet dataset and a coarse-mask DiT baseline for in-the-wild video virtual try-on.
 

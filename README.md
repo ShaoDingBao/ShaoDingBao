@@ -1,7 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=22&color=2563EB&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Dingbao+Shao.;Video+Generation+%26+Editing+Researcher" alt="Dingbao Shao — Video Generation and Editing Researcher" />
+  <h1>Dingbao Shao</h1>
 
-  <p><strong>I'm currently focused on video generation, video editing, and Diffusion Transformers.</strong></p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=1000&color=0F766E&center=true&vCenter=true&repeat=true&width=680&height=32&lines=Video+Generation+%26+Editing;Diffusion+Transformers+%26+Wan;Datasets+to+Distributed+Training" alt="Video generation and editing · Diffusion Transformers and Wan · Datasets to distributed training" />
+
+  <p><strong>Building controllable video systems, from data construction to large-scale training.</strong></p>
 
   <p>
     <code>🎓 M.S. Candidate @ Nanjing University</code>

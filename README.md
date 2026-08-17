@@ -34,6 +34,15 @@
 
 #### 🔬 Selected Research
 
+**[InstructVVT](https://github.com/ShaoDingBao/InstructVVT) — arXiv 2026**<br/>
+*Co-first author*
+
+Instruction-driven video virtual try-on without inference-time masks, poses, or parsing maps.
+
+[Paper](https://arxiv.org/abs/2608.14070) · [Project](https://shaodingbao.github.io/InstructVVT/)
+
+<br/>
+
 **[TripVVT](https://github.com/ShaoDingBao/TripVVT) — ECCV 2026**<br/>
 *First author*
 
@@ -56,6 +65,8 @@ A large-scale triplet dataset and a coarse-mask DiT baseline for in-the-wild vid
 
   <p>
     <a href="mailto:522024710012@smail.nju.edu.cn">Email</a>
+    ·
+    <a href="https://shaodingbao.github.io/InstructVVT/">InstructVVT</a>
     ·
     <a href="https://github.com/ShaoDingBao/TripVVT">TripVVT</a>
   </p>

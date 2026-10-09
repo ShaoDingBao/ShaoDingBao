@@ -35,7 +35,7 @@
 #### 🔬 Selected Research
 
 **[InstructVVT](https://github.com/ShaoDingBao/InstructVVT) — NeurIPS 2026**<br/>
-*Co-first author*
+*First author*
 
 Instruction-driven video virtual try-on without inference-time masks, poses, or parsing maps.
 
